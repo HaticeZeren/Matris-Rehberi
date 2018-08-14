@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1447054362 source:c:\users\casper\desktop\matris_rehberi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<SDL.h>
+	<SDL2/SDL_scancode.h>
+	<SDL2/SDL_keyboard.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
